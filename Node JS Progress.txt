@@ -1,0 +1,5 @@
+Node JS Learning Progress:
+
+1) Completed the "Node.js Essential Training" course on LinkedIn Learning.
+2) Completed the "Learning Node.js" course on LinkedIn Learning.
+3) Completed the "Express Essential Training" course on LinkedIn Learning.
